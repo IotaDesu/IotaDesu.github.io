@@ -1,0 +1,72 @@
+body{
+    background-image: url(gambar/background.png) ;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+img{
+    display: block;
+    border-radius: 40px;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 520px;
+    bottom: 10px;
+
+}
+
+
+#copyri{
+    font-family: sans-serif;
+    color: azure;
+    position: relative;
+    bottom: 0px;
+
+}
+
+#info{
+    font-family: sans-serif;
+    background-color: brown;
+    display: inline-block;
+    color: azure;
+    position: relative;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    left: 543px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    text-shadow: 4px 1px 3px rgb(100, 44, 231);
+    
+    
+}
+
+.Devian{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 430px;
+
+
+}
+
+.FB{
+    width: 120px;
+    height: 120px;
+    position: relative;
+    bottom: 120px;
+    left: 610px;
+    
+
+
+}
+
+.WA{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 800px;
+    bottom: 220px;
+}
